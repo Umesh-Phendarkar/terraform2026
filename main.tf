@@ -5,7 +5,7 @@ terraform {
     organization = "jan2026"
 
     workspaces {
-      name = "prod2026"
+      name = "terraform2026"
     }
   }
 
