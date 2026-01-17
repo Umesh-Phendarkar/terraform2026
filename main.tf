@@ -22,7 +22,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "example" {
-  bucket = "my-tf-cloud-demo-bucket-12345"
+  bucket = "my-tf-cloud-demo-bucket-909090"
 
   tags = {
     Environment = "dev"
